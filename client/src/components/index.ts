@@ -1,0 +1,7 @@
+export * from "./Card"
+export * from "./Description"
+export * from "./Galery"
+export * from "./Nav"
+export * from "./SysReq"
+export * from "./Trailer"
+export * from "./DownloadBtn"
